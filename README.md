@@ -1,4 +1,6 @@
 <img src="imagens/mascote.png" align="right" width="300">
+<p>mudei isso aqui</p>
+
 
 # Curso de HTML5 e CSS3
 
